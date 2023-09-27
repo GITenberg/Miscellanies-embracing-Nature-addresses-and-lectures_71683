@@ -1,0 +1,34 @@
+_repo: Miscellanies-embracing-Nature-addresses-and-lectures_71683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71683'
+language: en
+pgterms:marc904: https://archive.org/details/miscellaniesembr00emerrich
+pgterms:marc905: 20220111120545emerson
+pgterms:marc906: '1855'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bPhillips, Sampson, and Company, $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miscellanies embracing Nature, addresses, and lectures
+url: http://www.gutenberg.org/ebooks/71683
