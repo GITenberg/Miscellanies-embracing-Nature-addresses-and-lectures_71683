@@ -1,5 +1,8 @@
 _repo: Miscellanies-embracing-Nature-addresses-and-lectures_71683
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71683-h/images/back_cover.jpg
 creator:
   author:
     agent_name: Emerson, Ralph Waldo
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71683#Miscellanies-embracing-Nature-addresses-and-lectures
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71683'
